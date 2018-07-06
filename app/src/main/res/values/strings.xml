@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Quiz It</string>
+
+    <string name="question1">1. What is the capital of Portugal?</string>
+    <string name="question1_choice1">Warsaw</string>
+    <string name="question1_choice2">Lisbon</string>
+    <string name="question1_choice3">Oslo</string>
+
+    <string name="question2">2. Which country is hosting FIFA WorldCup 2018?</string>
+    <string name="question2_choice1">Brazil</string>
+    <string name="question2_choice2">France</string>
+    <string name="question2_choice3">Russia</string>
+
+    <string name="question3">3. Name the founders of Google.</string>
+    <string name="question3_choice1">Larry Page</string>
+    <string name="question3_choice2">Jack Dorsey</string>
+    <string name="question3_choice3">Sergey Brin</string>
+    <string name="question3_choice4">Evan Williams</string>
+
+    <string name="question4">4. The actors who have won Oscar are?</string>
+    <string name="question4_choice1">Johnny Depp</string>
+    <string name="question4_choice2">Ryan Gosling</string>
+    <string name="question4_choice3">Leonardo di Caprio</string>
+    <string name="question4_choice4">Robert Downey Jr.</string>
+
+    <string name="question5">5. Machu Pichu is situated in which country?</string>
+    <string name="question5_choice1">Indonesia</string>
+    <string name="question5_choice2">Peru</string>
+    <string name="question5_choice3">Spain</string>
+
+    <string name="question6">6. Which country is known as "Land of Rising Sun"?</string>
+    <string name="question6_choice1">India</string>
+    <string name="question6_choice2">Japan</string>
+    <string name="question6_choice3">Norway</string>
+
+    <string name="question7">7. Which two planets have one or more moons?</string>
+    <string name="question7_choice1">Ceres</string>
+    <string name="question7_choice2">Mercury</string>
+    <string name="question7_choice3">Earth</string>
+    <string name="question7_choice4">Pluto</string>
+
+    <string name="question8">8. Name the books written by William Shakespeare.</string>
+    <string name="question8_choice1">Hamlet</string>
+    <string name="question8_choice2">The God of all Things</string>
+    <string name="question8_choice3">Wings on Fire</string>
+    <string name="question8_choice4">As you Like It</string>
+
+    <string name="question9">9. Who has won the men’s singles French Open tennis tournament 2018?</string>
+    <string name="question9_choice1">Novak Djokovic</string>
+    <string name="question9_choice2">Dominic Thiem</string>
+    <string name="question9_choice3">Rafael Nadal</string>
+
+
+    <string name="question10">10. Who was the inventor of Television?</string>
+    <string name="question10_choice1">Gay Lussac</string>
+    <string name="question10_choice2">G. Marconi</string>
+    <string name="question10_choice3">J.L. Baird</string>
+
+    <string name="well_done">Perfect! You scored 10 out of 10</string>
+    <string name="try_again1">Try Again! You Scored</string>
+    <string name="try_again2">out of 10</string>
+
+    <string name="submit_answers">Submit</string>
+    <string name="finish_game">Finish</string>
+</resources>
